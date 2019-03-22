@@ -36,7 +36,9 @@ body {
 /*====================
         HEADER
 ======================*/
-
+.artist_name{
+  display:none; 
+}
 
 header {
     padding:10px 0px;

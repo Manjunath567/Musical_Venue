@@ -40,22 +40,14 @@ class Discount extends Component {
                             <span>OFF</span>
                         </div>
                     </Fade>
-                    
+
                     <Slide right>
                         <div className="discount_description">
-                            <h3>Purchase tickets before 20th JUNE</h3>
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-                        
-                            <MyButton
-                                text="Purchase tickets"
-                                bck="#ffa800"
-                                color="#ffffff"
-                                link="http://google.com"
-                            />
-                        
+                            <h3>History of nama Kalburgi</h3>
+                        <p>As of the 2011 Indian census,[12] Gulbarga city has a population of 543,000.Males constitute 55% of the population and females 45%. Gulbarga has an average literacy rate of 67%, higher than the national average of 59.5%. The male literacy is 70%, while that of females is 30%. In Gulbarga, 15% of the population is under 6 years of age. Kannada, Deccani Urdu and English are the main languages.</p>
                         </div>
                     </Slide>
-                    
+
 
 
                 </div>

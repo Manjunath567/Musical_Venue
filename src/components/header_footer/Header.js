@@ -51,8 +51,8 @@ class Header extends Component {
                 <Toolbar>
 
                     <div className="header_logo">
-                        <div className="font_righteous header_logo_venue">The Venue</div>
-                        <div className="header_logo_title">Musical Event</div>
+                        <div className="font_righteous header_logo_venue">Nama Kalburgi</div>
+                        <div className="header_logo_title">Sharnar nadu Dasara bidu </div>
                     </div>
 
                     <IconButton
@@ -61,7 +61,7 @@ class Header extends Component {
                         onClick={()=> this.toggleDrawer(true)}
                     >
                         <MenuIcon/>
-                    </IconButton> 
+                    </IconButton>
 
                     <SideDrawer
                         open={this.state.drawerOpen}

@@ -6,13 +6,13 @@ class Pricing extends Component {
 
     state = {
         prices:[100,150,250],
-        positions:['Balcony','Medium','Star'],
+        positions:['Movies','Garden','Food'],
         desc:[
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt uts',
-            'Dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea',
-            'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.'
+            'Check out movie ticket rates and show timings at Mukta A2 Cinemas',
+            'Appa Garden in Gulbarga, Karnataka, categorized as Park located in Gulbarga City, Karnataka',
+            'Janata Cream Parlour,Spicey and testey food .pure Veg:JCP.'
         ],
-        linkto:['http://sales/b','http://sales/m','http://sales/s'],
+        linkto:['https://in.bookmyshow.com','www.onefivenine.com ','www.hungryveels.com'],
         delay:[500,0,500]
 
     }
@@ -23,7 +23,7 @@ class Pricing extends Component {
                 <div className="pricing_item">
                     <div className="pricing_inner_wrapper">
                         <div className="pricing_title">
-                            <span>${this.state.prices[i]}</span>
+                            <span>{this.state.prices[i]}</span>
                             <span>{this.state.positions[i]}</span>
                         </div>
                         <div className="pricing_description">
@@ -41,7 +41,7 @@ class Pricing extends Component {
                 </div>
             </Zoom>
         ))
-       
+
     )
 
     render() {

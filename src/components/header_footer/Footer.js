@@ -5,9 +5,9 @@ const Footer = () => {
     return (
         <footer className="bck_red">
             <Fade delay={500}>
-                <div className="font_righteous footer_logo_venue">The Venue</div>
+                <div className="font_righteous footer_logo_venue">Nama Kalburgi</div>
                 <div className="footer_copyright">
-                    The venue 2018.All rights reserved.
+                    The Nama Kalburgi 2019.All rights reserved.
                 </div>
             </Fade>
         </footer>

@@ -7,7 +7,7 @@ const Description = () => {
             <div className="center_wrapper">
                 <h2>Highlights</h2>
                 <div className="highlight_description">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                The history of Gulbarga dates to the 6th century. The Rashtrakutas gained control over the region, but the Chalukyas regained their domain within a short period and reigned supreme for over 200 years. The Kalyani Kalachuris who succeeded them ruled until the 12th century. Around the end of the 12th century, the Yadavas of Devagiri and the Hoysalas of Dwarasamadra destroyed the supremacy of the Chalukyas and Kalachuris of Kalyani. Around the same period, the Kakatiya kings of Warangal came into prominence and the present Gulbarga and Raichur districts formed part of their domain
                 </div>
             </div>
         </Fade>

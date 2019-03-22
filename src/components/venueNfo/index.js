@@ -15,7 +15,7 @@ const VunueNfo = () => {
                             <div className="vn_outer">
                                 <div className="vn_inner">
                                     <div className="vn_icon_square bck_red"></div>
-                                    <div 
+                                    <div
                                         className="vn_icon"
                                         style={{
                                             background:`url(${icon_calendar})`
@@ -25,20 +25,20 @@ const VunueNfo = () => {
                                         Event Date & Time
                                     </div>
                                     <div className="vn_desc">
-                                        7 August 2017 @10.00 pm
+                                        21 Mar 2019 @06.00 pm
                                     </div>
                                 </div>
                             </div>
                         </div>
 
                     </Zoom>
-                    
+
                     <Zoom duration={500} delay={500}>
                         <div className="vn_item">
                             <div className="vn_outer">
                                 <div className="vn_inner">
                                     <div className="vn_icon_square bck_yellow"></div>
-                                    <div 
+                                    <div
                                         className="vn_icon"
                                         style={{
                                             background:`url(${icon_location})`
@@ -48,13 +48,14 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        345 Speer Street Oakland, CA 9835
+                                        SB Temple Rd,Brhampur,
+                                        Kalaburagi,Karnatak
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </Zoom>
-                    
+
                 </div>
             </div>
         </div>
