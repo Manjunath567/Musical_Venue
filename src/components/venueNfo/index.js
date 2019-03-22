@@ -48,8 +48,7 @@ const VunueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className="vn_desc">
-                                        SB Temple Rd,Brhampur,
-                                        Kalaburagi,Karnatak
+                                        SB Temple Rd,Kalaburagi,
                                     </div>
                                 </div>
                             </div>
